@@ -1,0 +1,8 @@
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.SuggestedBindingRedirects.cache
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe.config
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.exe
+E:\TICH\SEMANA 2\30-05-2022\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
